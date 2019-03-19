@@ -18,3 +18,4 @@ yarn-error.log
 .env.testing
 composer.lock
 package-lock.json
+database.sqlite
